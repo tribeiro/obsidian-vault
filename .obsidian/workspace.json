@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-05-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-30.md"
+                "file": "2023-05-31.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "6d21479f471db274",
   "lastOpenFiles": [
+    "2023-05-30.md",
+    "2023-05-31.md",
+    "2023-05-01.md",
     "objects/pack",
     "objects/info",
     "objects",
@@ -167,14 +170,11 @@
     "refs",
     "hooks/update.sample",
     "hooks/push-to-checkout.sample",
-    "hooks/prepare-commit-msg.sample",
     "Untitled.canvas",
-    "2023-05-30.md",
     "FY2022/Overall Comments.md",
     "Untitled.md",
     "Monthly Reports/2023/April.md",
     "Monthly Reports/2023/March.md",
-    "2023-05-01.md",
     "2023-03-31.md",
     "2023-04-03.md",
     "2023-03-09.md",
